@@ -1,5 +1,6 @@
 GeneModule
 ==========
+Contain two methods specifically for genetical statistics, which is calculating MAF and HWE. Also contains methods for simple statistical calculation.
 
 =====
 Files

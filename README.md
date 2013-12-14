@@ -1,4 +1,4 @@
-GeneModule
+SNPModule
 ==========
 In this module, there are two main functions designed specifically to calculate SNP statistics:
 
